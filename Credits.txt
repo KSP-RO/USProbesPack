@@ -1,0 +1,21 @@
+Reflection Plugin - Starwaster
+
+License: Public Domain
+
+Smokescreen - Sarbian
+
+License: BSD 2-Clause License
+
+B.Dynamics - BahamutoD
+
+License: CC-BY-SA
+
+HotRockets - Nazari1382
+
+License: CC-BY
+
+Firespitter - Snjo
+
+License:
+You may reuse code and textures from this mod, as long as you give credit in the download file and on the download post/page. Reuse of models with permission. No reselling. No redistribution of the whole pack without permission.
+UV map texture guides are included so you can re-skin to your liking.
