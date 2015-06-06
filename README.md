@@ -1,6 +1,6 @@
 This pack will include pretty much all probes ever launched by NASA and the US military. It is a long term project and I will be adding to it slowly over time.
 
-**Picutre Album:** http://imgur.com/a/fYxHG
+**Picture Album:** http://imgur.com/a/fYxHG
 
 ![alt tag](http://i.imgur.com/Ald1FDD.png)
 
