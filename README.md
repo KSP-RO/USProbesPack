@@ -15,6 +15,8 @@ This pack will include pretty much all probes ever launched by NASA and the US m
 * TDRS-K
 * Tiros-1, GRAB-1, Transit-2A, Explorer-6
 * MESSENGER
+* New Horizons
+* Voyager 1/2
 
 ##Remotetech Support:
 * If you use remotetech, here is a module manager config to make the probes compatible: [https://www.mediafire.com/?97yducwjlcbi435](https://www.mediafire.com/?97yducwjlcbi435)
@@ -31,7 +33,7 @@ This pack will include pretty much all probes ever launched by NASA and the US m
 
 * Original Pioneer 6/7/8/9 mesh - Jack Higgins - heavily modified by me
 
-* Pioneer 10/11 mesh, EOS sats, NEO sats, Galileo orbital module, Magellan, TDRS - NASA/JPL
+* Pioneer 10/11 mesh, EOS sats, NEO sats, Galileo orbital module, Magellan, TDRS, New Horizons, Voyager - NASA/JPL
 
 * Vanguard-1 - rodion_herrera - Used under authorization
 
