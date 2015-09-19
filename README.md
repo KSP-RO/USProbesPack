@@ -17,6 +17,7 @@ This pack will include pretty much all probes ever launched by NASA and the US m
 * MESSENGER
 * New Horizons
 * Voyager 1/2
+* Surveyor, Star 37
 
 ##Remotetech Support:
 * If you use remotetech, here is a module manager config to make the probes compatible: [https://www.mediafire.com/?97yducwjlcbi435](https://www.mediafire.com/?97yducwjlcbi435)
