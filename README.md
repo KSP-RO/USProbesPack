@@ -18,7 +18,7 @@ This pack will include pretty much all probes ever launched by NASA and the US m
 * New Horizons
 * Voyager 1/2
 * Surveyor, Star 37
-* TDRS A-G **NOTE: The satellite dishes will appear open in the VAB, they work fine once on the pad/in flight. This is a bug with the stock solar panel module and can not be easily fixed. It is not a big issue though as it only affects the VAB.**
+* TDRS A-G
 
 ##Remotetech Support:
 * If you use remotetech, here is a module manager config to make the probes compatible: [https://www.mediafire.com/?97yducwjlcbi435](https://www.mediafire.com/?97yducwjlcbi435)
