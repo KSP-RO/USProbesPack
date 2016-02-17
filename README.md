@@ -21,7 +21,7 @@ This pack will include pretty much all probes ever launched by NASA and the US m
 * TDRS A-G
 
 ##Remotetech Support:
-* If you use remotetech, here is a module manager config to make the probes compatible: [https://www.mediafire.com/?97yducwjlcbi435](https://www.mediafire.com/?97yducwjlcbi435)
+* If you use remotetech, here is a module manager config to make the probes compatible: [https://www.dropbox.com/s/4pgwigx27ffp6ta/US_Probes_RT.cfg?dl=0](https://www.dropbox.com/s/4pgwigx27ffp6ta/US_Probes_RT.cfg?dl=0)
 
 ##NOTES
 
