@@ -4,22 +4,6 @@ This pack will include pretty much all probes ever launched by NASA and the US m
 
 ![alt tag](http://i.imgur.com/Ald1FDD.png)
 
-##INCLUDED PROBES
-
-* Pioneer 0-11 probes, includes 0-2, 3-4, 5, 6-9, 10-11
-* EOS Satellites: Aura, Aqua, Terra
-* Galileo and Magellan spacecraft
-* Vanguard 1-3
-* Near Earth Object: Dawn, Deep Impact, Deep Space 1, NEAR, Stardust & Ulysses
-* IUS Booster & PAM
-* TDRS-K
-* Tiros-1, GRAB-1, Transit-2A, Explorer-6
-* MESSENGER
-* New Horizons
-* Voyager 1/2
-* Surveyor, Star 37
-* TDRS A-G
-
 ##Remotetech Support:
 * If you use remotetech, here is a module manager config to make the probes compatible: [https://www.dropbox.com/s/4pgwigx27ffp6ta/US_Probes_RT.cfg?dl=0](https://www.dropbox.com/s/4pgwigx27ffp6ta/US_Probes_RT.cfg?dl=0)
 
