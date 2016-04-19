@@ -1,6 +1,6 @@
 ship = Magellan
-version = 1.0.0
-description = 
+version = 1.1.0
+description = The Venus Radar Mapper was the first interplanetary mission to be launched from the Space Shuttle, the first to use the Inertial Upper Stage booster, and the first spacecraft to use aerobraking to circularize.
 type = VAB
 size = 3.230195,8.055935,2.956522
 PART

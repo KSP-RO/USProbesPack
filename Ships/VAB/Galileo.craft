@@ -1,6 +1,6 @@
 ship = Galileo
-version = 1.0.0
-description = 
+version = 1.1.0
+description = An orbiter and entry probe that studied the planet Jupiter and its moons and achieved the first asteroid flyby.
 type = VAB
 size = 4.054838,7.425539,3.439269
 PART
