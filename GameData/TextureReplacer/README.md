@@ -291,9 +291,12 @@ Known Issues
 Change Log
 ----------
 
+* 2.4.14
+    - restored visor reflections, thanks to RangeMachine again
+    - more beautiful code indentation
 * 2.4.13
     - fixed for 1.1 thanks to RangeMachine
-    - visor reflections still not working
+    - disabled visor reflections because visor shader is broken
 * 2.4.12
     - removed / replaced Kerbal Stuff links
     - possibly fixed a reflections-related crash
