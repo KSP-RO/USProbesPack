@@ -1,0 +1,37 @@
+{
+    "NAME":"US Probes Pack",
+    "URL":"http://raw.githubusercontent.com/KSP-RO/USProbesPack/master/GameData/RN_US_Probes/USProbesPack.version",
+    "DOWNLOAD":"https://github.com/KSP-RO/USProbesPack/releases",
+    "GITHUB":
+    {
+        "USERNAME":"raidernick",
+        "REPOSITORY":"USProbesPack",
+        "ALLOW_PRE_RELEASE":false,
+    },
+    "VERSION":
+    {
+        "MAJOR": 0,
+        "MINOR": 65,
+        "PATCH": 0,
+        "BUILD": 0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 2,
+		"BUILD": 0
+    },
+	"KSP_VERSION_MIN": {
+		"MAJOR": 1,
+		"MINOR": 2,
+		"PATCH": 0,
+		"BUILD": 0
+	},
+	"KSP_VERSION_MAX": {
+		"MAJOR": 1,
+		"MINOR": 2,
+		"PATCH": 2,
+		"BUILD": 0
+	}
+}
